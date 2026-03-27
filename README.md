@@ -12,7 +12,7 @@ library(patchwork)
 # READ DATA
 
 dados_wide <- read_excel(
-  "C:/Users/Downloads/regioes.xlsx",
+  "C:/Users/Downloads/document.xlsx",
   sheet = "regioes"
 )
 
